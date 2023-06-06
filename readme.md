@@ -17,7 +17,3 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="20" height="20"/> </a> </p>
 
 
-<h3 align="left">My linkedin is:</h3>
-<p align="left">
-<a href="https://twitter.com/matheushubert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matheushubert" height="20" width="0" /></a>
-</p>

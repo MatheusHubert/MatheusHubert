@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Matheus Hubert</h1>
-<h3 align="center">I will be a FullStack Developer 🙌🏻 </h3>
-<h3 align="center">I'm studying Full-Stack Developer at Le wagon!!</h3>
+<h3 align="center">Passionate about web development / engineering and constantly looking for new skills and learning. </h3>
 
 
-
-<h4 align="left">Attended Le Wagon Amsterdam (Batch #1314).</h4>
-<h4 align="left">Web Development Bootcamp 9-week full-time intensive coding bootcamp learning</h4>
+<h4 align="left">I just finished a bootcamp, and I'm looking forward to continuing to learn and create new skills.</h4>
+<h4 align="left"></h4>
 
 
 <h3 align="left">Connect with me:</h3>

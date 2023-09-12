@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Matheus Hubert</h1>
-<h3 align="center">Passionate about web development / engineering and constantly looking for new skills and learning. </h3>
+<h3 align="center">Passionate about web development / engineering  </h3>
 
 
-<h4 align="left">I just finished a bootcamp, and I'm looking forward to continuing to learn and create new skills.</h4>
+<h4 align="left"> I just finished a bootcamp, and I'm looking forward to continuing to learn and create new skills.</h4>
 <h4 align="left"></h4>
 
 
